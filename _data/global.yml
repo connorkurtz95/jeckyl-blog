@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Rich Hildred'
+title: 'Connor Kurtz'
 description: 'My Portfolio Site'
-url: 'https://rhildred.github.io' # the base hostname & protocol for your site
-footer_text: '&copy; Rich Hildred'
+url: 'https://connorkurtz95.github.io/jekkyl-blog' # the base hostname & protocol for your site
+footer_text: '&copy; Connor Kurtz'
 
 # Admin Settings
-admin_name: 'Rich Hildred'
-admin_email: 'rhildred@conestogac.on.ca'
+admin_name: 'Connor Kurtz'
+admin_email: 'ckurtz8533@conestogac.on.ca'
 
