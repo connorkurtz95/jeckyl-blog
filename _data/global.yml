@@ -1,7 +1,7 @@
 # Site Settings
 title: 'Connor Kurtz'
 description: 'My Portfolio Site'
-url: 'https://connorkurtz95.github.io/jekkyl-blog' # the base hostname & protocol for your site
+url: 'https://connorkurtz95.github.io/jekyll-blog' # the base hostname & protocol for your site
 footer_text: '&copy; Connor Kurtz'
 
 # Admin Settings
